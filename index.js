@@ -1290,4 +1290,4 @@ const prefix = p[message.guild.id].prefix
 
 
 
-client.login(process.env.TOKEN_BOT)
+client.login("")
