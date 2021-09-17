@@ -1290,4 +1290,4 @@ const prefix = p[message.guild.id].prefix
 
 
 
-client.login("ODg3MDE0NzMyMDQ3OTkwODA0.YT9-2A.Izwr3NfjVpwJnQzLDLxIae3eDmw")
+client.login("");
